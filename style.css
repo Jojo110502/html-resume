@@ -1,0 +1,14 @@
+
+.container{
+    display: grid;
+    grid-template-columns: minmax(200px,auto) minmax(200px,auto);
+    background-color: rgb(9, 5, 128);
+    color: white;
+}
+
+#footer{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
